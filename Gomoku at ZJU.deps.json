@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gomoku at ZJU/1.0.0": {
+        "dependencies": {
+          "Interop.Shell32": "1.2.107.0"
+        },
+        "runtime": {
+          "Gomoku at ZJU.dll": {}
+        }
+      },
+      "Interop.Shell32/1.2.107.0": {
+        "runtime": {
+          "Interop.Shell32.dll": {
+            "assemblyVersion": "1.2.107.0",
+            "fileVersion": "1.2.107.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gomoku at ZJU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Shell32/1.2.107.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
